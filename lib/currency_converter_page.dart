@@ -21,7 +21,7 @@ class _ConverterPageState extends State<ConverterPage> {
       return;
     }
 
-    final String consumer = 'Angel Ramos';
+    final String consumer = 'Angel Ramos y Juan Quiroga';
     final String baseCurrency = 'COP'; // Moneda base (pesos colombianos)
     final List<String> targetCurrencies = ['USD', 'EUR', 'GBP', 'JPY', 'CNY']; // Divisas de destino
     final String apiKey = '52648|s9cCqvavvDN7GdF79BVQ';
